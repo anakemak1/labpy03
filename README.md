@@ -4,13 +4,13 @@
 
 # ![0](https://user-images.githubusercontent.com/46510679/52996751-19b81300-3451-11e9-928b-8af5517755bd.png)
 
-1.Modul Random
+1. Modul Random
 
 Modul random menyediakan fast pseudorandom number generator berdasarkan algoritma Mersenne Twister.
 
 Contoh : # ![1](https://user-images.githubusercontent.com/46510679/52996763-20468a80-3451-11e9-955d-a021dc36075e.png)
 
-2.for loop/counted loop (perulangan yang terhitung)
+2. for loop/counted loop (perulangan yang terhitung)
 
 Perulangan for biasanya digunakan untuk mengulangi kode yang sudah diketahui banyak perulangannya.
  
@@ -30,13 +30,13 @@ HASIL 1:
 
 ![4](https://user-images.githubusercontent.com/46510679/52996794-2f2d3d00-3451-11e9-9c30-0b9ba87cb89e.png)
 
-1.print
+1. print
 
 print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
 contoh : ![5](https://user-images.githubusercontent.com/46510679/52996804-348a8780-3451-11e9-952b-2d7ecd8503a1.png)
 
-2.while loop
+2. while loop
 
 while untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya dengan pernyataan break. pernyataan break digunakan untuk mengehentikan proses perulangan dengan kondisi tertentu. langkah pertama yaitu menentukan variabel untuk max untuk mencari nilai terbesar dari data yang pengguna inputkan . Kemudian menentukan kapan perulangan berhenti. Jika pengguna menjawab 0 (Nol) perulangan akan terhenti. Setelah selesai mengulang, cetak bilangan terbesar dari beberapa data yang di inputkan.
 
