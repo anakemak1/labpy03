@@ -1,6 +1,6 @@
 # Penjelasan alogaritma
 
-#latihan1
+# latihan1
 
 # ![0](https://user-images.githubusercontent.com/46510679/52996751-19b81300-3451-11e9-928b-8af5517755bd.png)
 
@@ -26,7 +26,7 @@ HASIL 1:
 
 ![3](https://user-images.githubusercontent.com/46510679/52996987-c3979f80-3451-11e9-86cf-6476635bc069.png)
 
-#Latihan2
+# Latihan2
 
 ![4](https://user-images.githubusercontent.com/46510679/52996794-2f2d3d00-3451-11e9-9c30-0b9ba87cb89e.png)
 
@@ -46,7 +46,7 @@ HASIL 2 :
 
 ![7](https://user-images.githubusercontent.com/46510679/52996815-3d7b5900-3451-11e9-8c24-1e7c35edcfa2.png)
 
-##program1
+# latihan 3
 
 ![8](https://user-images.githubusercontent.com/46510679/52996820-42d8a380-3451-11e9-9fb6-f9e18a2dc866.png)
 
