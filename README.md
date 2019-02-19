@@ -1,16 +1,16 @@
 # Penjelasan alogaritma
 
-##latihan1
+#latihan1
 
 # ![0](https://user-images.githubusercontent.com/46510679/52996751-19b81300-3451-11e9-928b-8af5517755bd.png)
 
-1. Modul Random
+- Modul Random
 
 Modul random menyediakan fast pseudorandom number generator berdasarkan algoritma Mersenne Twister.
 
 Contoh : # ![1](https://user-images.githubusercontent.com/46510679/52996763-20468a80-3451-11e9-955d-a021dc36075e.png)
 
-2. for loop/counted loop (perulangan yang terhitung)
+- for loop/counted loop (perulangan yang terhitung)
 
 Perulangan for biasanya digunakan untuk mengulangi kode yang sudah diketahui banyak perulangannya.
  
@@ -26,17 +26,17 @@ HASIL 1:
 
 ![3](https://user-images.githubusercontent.com/46510679/52996987-c3979f80-3451-11e9-86cf-6476635bc069.png)
 
-##Latihan2
+#Latihan2
 
 ![4](https://user-images.githubusercontent.com/46510679/52996794-2f2d3d00-3451-11e9-9c30-0b9ba87cb89e.png)
 
-1. print
+- print
 
 print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
 contoh : ![5](https://user-images.githubusercontent.com/46510679/52996804-348a8780-3451-11e9-952b-2d7ecd8503a1.png)
 
-2. while loop
+- while loop
 
 while untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya dengan pernyataan break. pernyataan break digunakan untuk mengehentikan proses perulangan dengan kondisi tertentu. langkah pertama yaitu menentukan variabel untuk max untuk mencari nilai terbesar dari data yang pengguna inputkan . Kemudian menentukan kapan perulangan berhenti. Jika pengguna menjawab 0 (Nol) perulangan akan terhenti. Setelah selesai mengulang, cetak bilangan terbesar dari beberapa data yang di inputkan.
 
@@ -50,7 +50,7 @@ HASIL 2 :
 
 ![8](https://user-images.githubusercontent.com/46510679/52996820-42d8a380-3451-11e9-9fb6-f9e18a2dc866.png)
 
-1.for
+- for
 
 Petama kita tentukan nilai variabel
 
@@ -60,13 +60,13 @@ Variabel x berfungsi untuk menampung indeks dan fungsi range() berfungsi untuk m
 
 ![10](https://user-images.githubusercontent.com/46510679/52996838-4f5cfc00-3451-11e9-81b9-d081589fae3a.png)
 
-2.if statment
+- if statment
 
 IF statment memungkinkan pengguna untuk membuat perbandingan logis antara nilai dan apa yang diharapkan dengan menguji kondisi dan mengembalikan hasil jika True atau False.
 
 ![11](https://user-images.githubusercontent.com/46510679/52996846-5552dd00-3451-11e9-98dd-c61022c25441.png)
 
-3.TOTAL
+- TOTAL
 
 TOTAL untuk mengakumulasikan hasil dari program operator yang ada di statment IF.
 
